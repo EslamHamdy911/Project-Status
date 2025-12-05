@@ -1,0 +1,50 @@
+import { Translation } from './types';
+
+export const TRANSLATIONS: Record<string, Translation> = {
+  ar: {
+    title: "حالة المشروع",
+    desc: "قيم توثيق مشروعك",
+    projectName: "اسم المشروع",
+    selectFiles: "الملفات الموجودة",
+    fileReadme: "ملف اقرأني (README)",
+    fileLicense: "الرخصة (LICENSE)",
+    fileScope: "نطاق المشروع (Scope)",
+    statusTitle: "حالة المشروع",
+    statusOfficial: "مؤسس رسميًا",
+    statusExperimental: "تجريبي",
+    statusUndocumented: "غير موثق",
+    installApp: "تثبيت التطبيق",
+    installed: "تم التثبيت",
+    welcomeTitle: "مرحباً بك في أداة حالة المشروع",
+    welcomeDesc: "هذا التطبيق يساعدك على تقييم نضج مشاريعك البرمجية بناءً على ملفات التوثيق.",
+    welcomeStep1: "1. أدخل اسم مشروعك.",
+    welcomeStep2: "2. حدد الملفات المتوفرة (README، رخصة، نطاق).",
+    welcomeStep3: "3. احصل على التقييم فوراً (أخضر، أصفر، أحمر).",
+    close: "فهمت، لنبدأ",
+    mode: "الوضع",
+    lang: "اللغة"
+  },
+  en: {
+    title: "Project Status",
+    desc: "Evaluate your project documentation",
+    projectName: "Project Name",
+    selectFiles: "Available Files",
+    fileReadme: "README File",
+    fileLicense: "LICENSE File",
+    fileScope: "Scope Document",
+    statusTitle: "Project Status",
+    statusOfficial: "Officially Established",
+    statusExperimental: "Experimental",
+    statusUndocumented: "Undocumented",
+    installApp: "Install App",
+    installed: "Installed",
+    welcomeTitle: "Welcome to Project Status",
+    welcomeDesc: "This app helps you evaluate the maturity of your software projects based on documentation files.",
+    welcomeStep1: "1. Enter your project name.",
+    welcomeStep2: "2. Select available files (README, License, Scope).",
+    welcomeStep3: "3. Get instant evaluation (Green, Yellow, Red).",
+    close: "Got it, let's start",
+    mode: "Mode",
+    lang: "Language"
+  }
+};

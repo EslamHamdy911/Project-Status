@@ -1,0 +1,5 @@
+{
+  "name": "حالة المشروع (Project Status)",
+  "description": "A tool to evaluate project maturity based on documentation files, featuring offline support and bilingual interface.",
+  "requestFramePermissions": []
+}

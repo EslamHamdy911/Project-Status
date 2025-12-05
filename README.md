@@ -1,11 +1,23 @@
-<div align="center">
+# Nakamoko Systems
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Nakamoko Systems: automated digital platforms for startups and communities.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Project Status Evaluation**: Automated assessment based on documentation files.
+- **PWA Support**: Fully functional offline with installation capabilities.
+- **Theming**: Dark and Light mode support.
+- **Localization**: Bilingual interface (Arabic/English).
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tools Used
 
-</div>
+- React 18
+- TypeScript
+- Tailwind CSS
+- Lucide Icons
+
+## License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+© 2025 Islam Hamdy – Nakamoko Systems. All rights reserved.
